@@ -1,0 +1,1 @@
+# This code depicts how you can use SharedPrefrences in Android
